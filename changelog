@@ -1,0 +1,14 @@
+5/5/23
+    Final Assignment for 327! (still terrible about procrastinating so its grind time again)
+    3:24am-4:17am
+        Added openingScreen() method that plays a short intro animation welcoming the player and displaying the pokemon logo.
+    4:30am-6:11am
+        Added HP bar logic that fills based on pokemon's current health / their max health
+            added firstDigit() to help
+    6:15am-6:45am
+        Added encounterAnimation() that plays when encountering a pokemon in the wild
+    4:00pm-6:23pm
+        Updated pokemonBattle() to have a small animation before fighting a trainer
+        Updated battleSequence() to have animations before pokemon battles begin, making it more obvious to the user what pokemon they are fighting and when a new battle begins during a trainer fight.
+    6:30pm-7:00pm
+        Added blackCurtains()
